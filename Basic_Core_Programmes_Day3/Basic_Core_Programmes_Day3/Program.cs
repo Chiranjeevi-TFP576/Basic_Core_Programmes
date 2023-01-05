@@ -9,7 +9,8 @@
             //Leap_Year obj = new Leap_Year();
             //obj.LaepYearCheck();
             //Power_Of_2.PowerOfTwo();
-            Harmonic_Series.HarmonicNumber();
+            //Harmonic_Series.HarmonicNumber();
+            Factors.PrimeFactorial();
         }
     }
 }
