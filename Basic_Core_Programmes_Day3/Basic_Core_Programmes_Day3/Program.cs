@@ -12,7 +12,8 @@
             //Harmonic_Series.HarmonicNumber();
             //Factors.PrimeFactorial();
             // Quotient_Remainder.CheckReminderQuotent();
-            Swap_Two_Numbers.SwapNumbers();
+            //Swap_Two_Numbers.SwapNumbers();
+            Even_Odd_Number.CheckEvenOdd();
         }
     }
 }
