@@ -10,7 +10,8 @@
             //obj.LaepYearCheck();
             //Power_Of_2.PowerOfTwo();
             //Harmonic_Series.HarmonicNumber();
-            Factors.PrimeFactorial();
+            //Factors.PrimeFactorial();
+            Quotient_Remainder.CheckReminderQuotent();
         }
     }
 }
