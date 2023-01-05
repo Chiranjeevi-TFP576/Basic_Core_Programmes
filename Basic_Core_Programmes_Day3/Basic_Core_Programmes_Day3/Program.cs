@@ -4,10 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Stat To Baisc Programmes");
+            //Console.WriteLine("Stat To Baisc Programmes");
 
-            Leap_Year obj = new Leap_Year();
-            obj.LaepYearCheck();
+            //Leap_Year obj = new Leap_Year();
+            //obj.LaepYearCheck();
+            Power_Of_2.PowerOfTwo();
         }
     }
 }
