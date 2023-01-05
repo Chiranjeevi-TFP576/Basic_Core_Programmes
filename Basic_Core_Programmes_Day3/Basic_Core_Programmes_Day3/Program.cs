@@ -13,7 +13,8 @@
             //Factors.PrimeFactorial();
             // Quotient_Remainder.CheckReminderQuotent();
             //Swap_Two_Numbers.SwapNumbers();
-            Even_Odd_Number.CheckEvenOdd();
+            //Even_Odd_Number.CheckEvenOdd();
+            Vowel_Consonant.CheckVowel_Consonant();
         }
     }
 }
